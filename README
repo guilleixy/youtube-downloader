@@ -1,1 +1,5 @@
+iniciar venv:
 venv\Scripts\activate
+
+si error 403:
+pip install -U yt-dlp
